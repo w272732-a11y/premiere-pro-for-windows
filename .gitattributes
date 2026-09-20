@@ -1,0 +1,6 @@
+# Language detection rules
+*.md linguist-documentation
+src/**/*.tsx linguist-detectable
+public/index.html linguist-vendored
+
+*.ico binary
