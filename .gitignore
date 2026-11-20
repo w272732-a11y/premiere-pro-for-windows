@@ -1,0 +1,8 @@
+dist/
+.env.local
+build/
+.DS_Store
+coverage/
+.next/
+yarn-error.log*
+node_modules/
